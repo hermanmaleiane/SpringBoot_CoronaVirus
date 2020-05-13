@@ -1,6 +1,9 @@
 # Read Me First
 The following was discovered as part of building this project:
 
+#Final Result in this article
+https://medium.com/@hermanmaleiane/spring-boot-thymeleaf-leaflet-js-mapping-corona-virus-a8309c5a0b6d
+
 # Getting Started
 
 ### Reference Documentation
